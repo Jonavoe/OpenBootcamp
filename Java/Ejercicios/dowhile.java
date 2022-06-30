@@ -1,3 +1,4 @@
+package Java.ejercicios;
 public class dowhile {
     public static void mian(String[] args) {
         var contador = 2;

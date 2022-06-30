@@ -1,3 +1,4 @@
+package Java.ejercicios;
 public class ForNumero {
     public static void main(String[] args) {
 

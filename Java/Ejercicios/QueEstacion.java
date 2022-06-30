@@ -1,3 +1,4 @@
+package Java.ejercicios;
 public class QueEstacion {
     public static void main(String[] args) {
         var estacion = "verano";

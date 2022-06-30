@@ -1,3 +1,4 @@
+package Java.ejercicios;
 public class CochePuertas {
     public static void main(String[] argss) {
     Coche miCoche = new Coche();
