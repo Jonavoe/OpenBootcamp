@@ -4,15 +4,15 @@ public class ejerciciotema8 {
     
     public static void main(String[] args) {
 
-        Persona persona1 = new Persona();
+        Persona persona = new Persona();
 
-        persona1.setNombre("Jonathan");
-        persona1.setEdad(30);
-        persona1.setTelefono(54123);
+        persona.setNombre("Jonathan");
+        persona.setEdad(30);
+        persona.setTelefono(54123);
 
-        System.out.println(persona1.getNombre);
-        System.out.println(persona1.getEdad);
-        System.out.println(persona1.getTelefono);
+        System.out.println(persona.getNombre());
+        System.out.println(persona.getEdad());
+        System.out.println(persona.getTelefono());
 
     }
 
