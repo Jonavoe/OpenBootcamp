@@ -1,4 +1,4 @@
-package Java.ejercicios;
+package Java.Ejercicios;
 
 public class ejerciciotema8 {
     

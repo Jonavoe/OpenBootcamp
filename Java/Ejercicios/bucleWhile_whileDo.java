@@ -1,4 +1,4 @@
-package Java.ejercicios;
+package Java.Ejercicios;
 // public class bucleWhile_whileDo {
 //     public static void main(String[]args) {
 

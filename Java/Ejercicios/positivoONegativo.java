@@ -1,4 +1,4 @@
-package Java.ejercicios;
+package Java.Ejercicios;
 public class positivoONegativo {
     public static void main(String[] args) {
         var numeroif = 0;

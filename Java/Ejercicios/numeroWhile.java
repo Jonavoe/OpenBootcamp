@@ -1,4 +1,4 @@
-package Java.ejercicios;
+package Java.Ejercicios;
 public class numeroWhile {
     public static void main(String[] args) {
         var numeroWhile = 0;
